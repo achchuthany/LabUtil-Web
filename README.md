@@ -19,7 +19,16 @@ Server Installation (quick setup)
 	verification/password reset mails.
 	
 
+Help
+==========
+Blog
+====
+http://jfn-csc-rad-g7.blogspot.com
 
-//more help read this blog  http://jfn-csc-rad-g7.blogspot.com
-//download labutil client at https://sourceforge.net/projects/labutilization
-//client installation http://jfn-csc-rad-g7.blogspot.com/2013/12/labutil-client-installation.html
+Client Software 
+====
+https://sourceforge.net/projects/labutilization
+
+Client Software Installation
+=====
+http://jfn-csc-rad-g7.blogspot.com/2013/12/labutil-client-installation.html
