@@ -1,12 +1,12 @@
-
-Requirements
-===========
+********************************* Requirements *******************************
 PHP 5.3.7+
 1. MySQL 5 database (please use a modern version of MySQL (5.5, 5.6, 5.7) as 
    very old versions have a exotic bug that makes PDO injections possible.
+******************************************************************************
 
-Server Installation (quick setup)
-===========
+
+
+*****************  Server Installation (quick setup) *************************
 
 1. create database " labutil " and table users via the SQL statements in the " _database " folder.
 2. in administer/advanced/config/config.php, change mySQL user and password (DB_USER and DB_PASS).
@@ -18,6 +18,7 @@ Server Installation (quick setup)
 	to your URL! You need to provide the URL of your project here to link to your project from within 
 	verification/password reset mails.
 	
+******************************************************************************
 
 
 //more help read this blog  http://jfn-csc-rad-g7.blogspot.com
